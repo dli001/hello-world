@@ -1,0 +1,10 @@
+{
+    "name": "test oem",
+    "nullValue": null,
+    "intValue": 1,
+    "arrayValue": [ "array1", "array2" ],
+    "objValue": {
+        "key1": "value1",
+        "key2": "value2"
+    }
+}
